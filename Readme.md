@@ -86,7 +86,7 @@ For a PDF or DOCX document, the script will output:
 
 ```plaintext
 ===MOBILE==
-+1-123-456-7890
++1-123-456-789
 
 ===email==
 example@email.com
